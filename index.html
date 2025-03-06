@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Wahl</title>
+</head>
+<body>
+    <h1>Stunden Wahl</h1>
+    <h5>Abitur 2025 Video Komitee</h5>
+    
+    <input type="text" id="field" placeholder="Name">
+    <button onclick="add()">
+        <p>Hinzufügen</p>
+    </button>
+    <br>
+    <br>
+    <button onclick="search()">
+        <p>Suche</p>
+    </button>
+
+    <h2>Bester Tag:</h2>
+    <h3 id="res">Tag, Stunde: Score</h3>
+
+    <hr>
+
+    <p>Wenn du es bis hier hingeschafft hast, dann musst</p>
+    <p>du wissen dass diese Webseite eher technisch ist.</p>
+    <h3>Guide</h3>
+    <p>1. Schreib den Namen in die Box, Groß-Kleinschreibung beachten,</p>
+    <p>erster Buchstabe ist groß, rest ist klein</p>
+    <p>2. Drück auf Hinzufügen, wenn der Name verschwindet ist alles</p>
+    <p>gut, wenn nicht dann ist der Name falsch geschrieben.</p>
+    <p>Liste aller möglichen namen ist in database.js</p>
+    <p>3. Wenn alle Namen drin sind, musst du nur auch Suche klicken</p>
+    <h3>Infos</h3>
+    <p>1. Nichts kann Namen entfernen. Stattdessen musst du die Seite</p>
+    <p>neu laden und alle Namen neu eingeben</p>
+    <p>2. Nach der Suche kannst du in der Konsole eine Detailierte</p>
+    <p>version des Scores sehen. Es ist aber unübersichtlich.</p>
+
+    <script src="database.js"></script>
+    <script src="source.js"></script>
+</body>
+</html>
