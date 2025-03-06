@@ -5,7 +5,7 @@ const validNames = [
     "Jill", // Complete
     "Hamza", // Complete
     "Eveline", // Complete
-    "Mert",
+    "Mert", // Complete
     "Wen", // Complete
     "Ryan", // Complete
     "Zarko", // Complete
@@ -32,8 +32,8 @@ const Montag = [
     ["Hacer",],
     ["Hacer",],
 
-    ["Eveline", "Mina", "Alex", "Zarko", "Shayma", "Hamza",],
-    ["Eveline", "Mina", "Alex", "Zarko", "Shayma", "Hamza",],
+    ["Eveline", "Mina", "Alex", "Zarko", "Shayma", "Hamza", "Mert",],
+    ["Eveline", "Mina", "Alex", "Zarko", "Shayma", "Hamza", "Mert",],
 
     ["Eveline", "Filip", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Hacer", "Shayma",],
     [],
@@ -48,14 +48,14 @@ const Dienstag = [
     [],
 
     [],
-    ["Eveline", "Filip", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Elman",],
+    ["Eveline", "Filip", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Elman", "Mert",],
 
     [],
     ["Mina",],
 
-    ["Rojin", "Wen", "Elman",],
-    ["Filip", "Ryan", "Selver", "Hacer", "Wen", "Hamza",],
-    ["Filip", "Mina", "Ryan", "Selver", "Hacer", "Wen", "Hamza",],
+    ["Rojin", "Wen", "Elman", "Mert",],
+    ["Filip", "Ryan", "Selver", "Hacer", "Wen", "Hamza", "Mert",],
+    ["Filip", "Mina", "Ryan", "Selver", "Hacer", "Wen", "Hamza", "Mert",],
 ]
 
 const Mittwoch = [
@@ -77,13 +77,13 @@ const Donnerstag = [
     [],
     [],
 
-    ["Rojin", "Wen", "Elman",],
-    ["Rojin", "Wen", "Elman",],
+    ["Rojin", "Wen", "Elman", "Mert",],
+    ["Rojin", "Wen", "Elman", "Mert",],
 
     [],
     ["Hacer",],
 
-    ["Eveline", "Mina", "Zarko", "Shayma", "Hamza",],
+    ["Eveline", "Mina", "Zarko", "Shayma", "Hamza", "Mert",],
     ["Eveline", "Zarko", "Rojin", "Shayma",],
     ["Eveline", "Zarko", "Rojin", "Shayma",],
 ]
@@ -96,9 +96,9 @@ const Freitag = [
     ["Filip", "Selver", "Ryan",],
 
     [],
-    ["Eveline", "Zarko", "Hamza",],
+    ["Eveline", "Zarko", "Hamza", "Mert",],
 
-    ["Eveline", "Filip", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza",],
-    ["Eveline", "Filip", "Mina", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Elman",],
-    ["Eveline", "Filip", "Mina", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Elman",],
+    ["Eveline", "Filip", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Mert",],
+    ["Eveline", "Filip", "Mina", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Elman", "Mert",],
+    ["Eveline", "Filip", "Mina", "Alex", "Zarko", "Jill", "Ryan", "Selver", "Rojin", "Hacer", "Shayma", "Wen", "Hamza", "Elman", "Mert",],
 ]
